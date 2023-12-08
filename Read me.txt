@@ -1,0 +1,11 @@
+
+
+Database Name: "student_records"
+
+Admin Login(ID:19202103032)
+Email:admin@gmail.com
+Password:Password123
+....................................... 
+Student login (ID: 1001)
+Email: student1@gmail.com
+Password: Password123
